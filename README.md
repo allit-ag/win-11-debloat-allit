@@ -10,6 +10,6 @@ Default Script Usage:
 
 Default All-IT Debloat config:
 ```
-& ([scriptblock]::Create((irm "temp")))
+& ([scriptblock]::Create((irm "https://raw.githubusercontent.com/allit-ag/win-11-debloat-allit/refs/heads/main/debloat.ps1")))
 ```
 
